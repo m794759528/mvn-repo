@@ -8,7 +8,7 @@
   <packaging>aar</packaging>
   <name>Library-framework </name>
   <description>"this is  android aar mvn repo in github !"</description>
-  <url>https://github.com/m794759528/framework    </url>
+  <url>https://github.com/m794759528/framework</url>
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
@@ -18,8 +18,8 @@
   </licenses>
   <developers>
     <developer>
-      <id>m122469119  </id>
-      <name>m122469119 &lt;122469119@qq.com> </name>
+      <id>m794759528  </id>
+      <name>m794759528 &lt;794759528@qq.com> </name>
     </developer>
   </developers>
   <scm>
